@@ -91,7 +91,7 @@ DATABASE_URL="postgresql://user:password@localhost:5432/srag_db"
 python -m scripts.import_data
 ```
 
-- **OBS:** O processo pode levar vários minutos. O script popula de forma altomática o banco com dados do SUS de 2019 até 2025.
+- **OBS:** O processo pode levar vários minutos. O script popula de forma automática o banco com dados do OpenDataSUS de 2019 até 2025.
 
 ### 🔹 Passo 6: Iniciar a API
 
